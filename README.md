@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">Building the future, one commit at a time</h3>
 
-![](giphy (1).gif)
+<div align="center">
+  <img src="giphy (1).gif" alt="animated" width="400"/>
+</div>
 
 ## 🚀 About Me
 
