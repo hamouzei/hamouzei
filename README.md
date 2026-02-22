@@ -61,8 +61,17 @@ I'm a developer who loves turning ideas into code that works. I focus on craftin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamouzei&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
+<<<<<<< HEAD
 <br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hamouzei&label=Profile%20views&color=3B82F6&style=flat" alt="Profile Views" />
 </div>
+=======
+- **Tools**:  
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+
+  ## GitHub Stats
+
+![hamouzei's GitHub stats](https://moha-omega.vercel.app/api?username=hamouzei&show_icons=true&theme=radical)
+>>>>>>> 4c0cdf45649f1beee33f66a93962e7503bbb1838
